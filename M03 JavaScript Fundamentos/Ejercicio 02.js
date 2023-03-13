@@ -13,35 +13,30 @@ function suma(x, y) {
    // Retorna el resultado de su suma.
    // Tu código:
    return(x + y);
-   console.log(suma);
 }
 
 function resta(x, y) {
    // Retorna el resultado de la resta.
    // Tu código:
    return(x - y);
-   console.log(resta);
 }
 
 function divide(x, y) {
    // Retorna el resultado de su división.
    // Tu código:
    return(x / y);
-   console.log(divide);
 }
 
 function multiplica(x, y) {
    // Retorna el resultado de su multiplicación.
    // Tu código:
    return(x * y);
-   console.log(multiplica);
 }
 
 function obtenerResto(x, y) {
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
    return(x % y);
-   console.log(obtenerResto);
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
